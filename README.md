@@ -38,3 +38,19 @@ This program demonstrates how to:
 ## Learning
 
 Today I learned how Python stores different types of data and how to identify their data types.
+
+
+## Day 3 - Data Types & Type Casting
+
+### Topics Covered
+- String (str)
+- Integer (int)
+- Float (float)
+- Boolean (bool)
+- type()
+- Type Casting
+
+### File
+- Day03_DataTypes.py
+
+Today I learned different Python data types and how to convert one data type into another using type casting.
