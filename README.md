@@ -54,3 +54,15 @@ Today I learned how Python stores different types of data and how to identify th
 - Day03_DataTypes.py
 
 Today I learned different Python data types and how to convert one data type into another using type casting.
+
+## Day 4 - Python Operators
+
+### Topics Covered
+- Arithmetic Operators
+- Comparison Operators
+- Logical Operators
+
+### File
+- Day04_Operators.py
+
+Today I learned different types of operators in Python and how they are used in calculations and comparisons.
