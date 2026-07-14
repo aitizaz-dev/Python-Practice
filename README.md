@@ -66,3 +66,22 @@ Today I learned different Python data types and how to convert one data type int
 - Day04_Operators.py
 
 Today I learned different types of operators in Python and how they are used in calculations and comparisons.
+
+## Day 5 - If / Else
+
+### Topics Covered
+- if statement
+- else statement
+- Comparison Operators
+- Decision Making
+
+### File
+- Day05_If_Else.py
+
+### Programs
+- Age Eligibility Checker
+- Even or Odd Checker
+- Positive or Negative Checker
+- Password Checker
+
+Today I learned how to make decisions in Python using if and else statements.
