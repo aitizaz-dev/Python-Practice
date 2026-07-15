@@ -85,3 +85,20 @@ Today I learned different types of operators in Python and how they are used in 
 - Password Checker
 
 Today I learned how to make decisions in Python using if and else statements.
+
+## Day 6 - Nested If
+
+### Topics Covered
+- Nested If Statements
+- Decision Making
+- User Input
+
+### File
+- Day06_Nested_If.py
+
+### Programs
+- Student Admission Checker
+- ATM Withdrawal
+- Login System
+
+Today I learned how to use nested if statements to solve real-world problems.
