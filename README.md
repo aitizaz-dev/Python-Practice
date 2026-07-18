@@ -102,3 +102,23 @@ Today I learned how to make decisions in Python using if and else statements.
 - Login System
 
 Today I learned how to use nested if statements to solve real-world problems.
+
+## Day 7 - For Loop
+
+### Topics Covered
+- for loop
+- range()
+- Looping through numbers
+- Multiplication Table
+- Sum of Numbers
+
+### File
+- Day07_For_Loop.py
+
+### Programs
+- Print Numbers
+- Multiplication Table
+- Sum of Numbers
+- Even Numbers
+
+Today I learned how to use the for loop in Python to repeat tasks efficiently.
