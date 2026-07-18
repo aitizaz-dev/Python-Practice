@@ -122,3 +122,22 @@ Today I learned how to use nested if statements to solve real-world problems.
 - Even Numbers
 
 Today I learned how to use the for loop in Python to repeat tasks efficiently.
+
+## Day 8 - While Loop
+
+### Topics Covered
+- while loop
+- Loop control
+- Counter
+- Password Checker
+
+### File
+- Day08_While_Loop.py
+
+### Programs
+- Print Numbers
+- Countdown
+- Password Checker
+- Sum of Numbers
+
+Today I learned how to use the while loop to repeat tasks until a condition becomes false.
