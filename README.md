@@ -134,6 +134,25 @@ Today I learned how to use the for loop in Python to repeat tasks efficiently.
 ### File
 - Day08_While_Loop.py
 
+## Day 9 - Functions
+
+### Topics Covered
+- def keyword
+- Creating Functions
+- Calling Functions
+- Reusable Code
+
+### File
+- Day09_Functions.py
+
+### Programs
+- Welcome Function
+- Addition Function
+- Greeting Function
+- Square Function
+
+Today I learned how to create and call functions in Python.
+
 ### Programs
 - Print Numbers
 - Countdown
