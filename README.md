@@ -151,12 +151,5 @@ Today I learned how to use the for loop in Python to repeat tasks efficiently.
 - Greeting Function
 - Square Function
 
-Today I learned how to create and call functions in Python.
+Today I learned how to create and call functions in pyton
 
-### Programs
-- Print Numbers
-- Countdown
-- Password Checker
-- Sum of Numbers
-
-Today I learned how to use the while loop to repeat tasks until a condition becomes false.
