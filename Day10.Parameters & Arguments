@@ -1,0 +1,25 @@
+# Program 1 Greeting Function
+ 
+def greet(name):
+    print("Hello,",name)
+    print("Welcome to Python!")
+
+greet("Aitizaz")
+
+# Program 2 Addition Function
+
+def add(num1,num2):
+    result = num1+num2
+    print("Sum =", result)
+
+add(15,39)
+
+# program 3 Student Information
+
+def student(name,age,city):
+    print("Student Information")
+    print("Name :",name)
+    print("Age :",age)
+    print("City :",city)
+
+student("Aitizaz",18,"Nowshera")
