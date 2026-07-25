@@ -153,3 +153,21 @@ Today I learned how to use the for loop in Python to repeat tasks efficiently.
 
 Today I learned how to create and call functions in pyton
 
+## Day 10 - Parameters & Arguments
+
+### Topics Covered
+- Function Parameters
+- Function Arguments
+- Passing Values
+- Reusable Functions
+
+### File
+- Day10_Parameters.py
+
+### Programs
+- Greeting Function
+- Addition Function
+- Student Information
+- Rectangle Area
+
+Today I learned how to pass values to functions using parameters and arguments.
