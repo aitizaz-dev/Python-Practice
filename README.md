@@ -171,3 +171,22 @@ Today I learned how to create and call functions in pyton
 - Rectangle Area
 
 Today I learned how to pass values to functions using parameters and arguments.
+
+## Day 11 - Lists
+
+### Topics Covered
+- Creating Lists
+- Accessing List Items
+- Updating List Items
+- Looping Through Lists
+
+### File
+- Day11_Lists.py
+
+### Programs
+- Fruit List
+- Access List Items
+- Update List
+- Loop Through List
+
+Today I learned how to create, access, update, and loop through Python lists.
